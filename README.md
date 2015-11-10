@@ -1,1 +1,3 @@
-# ITEC_YEOMAN
+# itec-testat
+
+> Testat für das Modul ITEC@HSLU.

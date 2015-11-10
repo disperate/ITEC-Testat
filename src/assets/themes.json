@@ -1,0 +1,7 @@
+{
+  "themes":
+  [
+    {"name": "Grapefruit", "cssCdn": "assets/css/paper.min.css"},
+    {"name": "Grün", "cssCdn": "assets/css/flaty.min.css"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "itec-testat",
+  "version": "0.1.0",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.4",
+    "jquery.cookie": "jquery-cookie#~1.4.1",
+    "jquery-validation": "~1.14.0"
+  },
+  "private": true
+}
